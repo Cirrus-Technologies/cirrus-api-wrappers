@@ -1,6 +1,6 @@
 <?php
 if (isset($_GET['url'])) {
-    $url = 'https://api.cirrus.center/api/v1/edit/replace-space/?url=' . $_GET['url'];
+    $url = 'https://api.cirrus.center/api/v1/edit/remove-params/?url=' . $_GET['url'];
     $ch = curl_init();
 
     curl_setopt($ch, CURLOPT_URL, $url);
