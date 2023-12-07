@@ -24,7 +24,7 @@
 <div style="display: flex; align-items: flex-start;">
     <h2 style="text-align: left;">API Wrappers:</h2>
     <ul>
-        <h3>Moderation</h3><li><a href="//">Anti-doxx</a> - Will scan any input text and tell if it could be doxxing someone</li>
+        <h3>Moderation</h3><li><a href="/anti-doxx/">Anti-doxx</a> - Will scan any input text and tell if it could be doxxing someone</li>
         <h3>Search</h3><li><a href="//">Return</a> - This API endpoint will return the input text</li>
         <h3>Random</h3><li><a href="//">Random Image</a> - This API endpoint will generate a random image</li>
         <li><a href="//">8-ball</a> - Gives the response a magic 8 ball would</li>
