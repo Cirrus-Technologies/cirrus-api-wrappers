@@ -24,15 +24,15 @@
 <div style="display: flex; align-items: flex-start;">
     <h2 style="text-align: left;">API Wrappers:</h2>
     <ul>
-        <li><a href="//">Anti-doxx</a> - Will scan any input text and tell if it could be doxxing someone</li>
-        <li><a href="//">Return</a> - This API endpoint will return the input text</li>
-        <li><a href="//">Random Image</a> - This API endpoint will generate a random image</li>
+        <h3>Moderation</h3><li><a href="//">Anti-doxx</a> - Will scan any input text and tell if it could be doxxing someone</li>
+        <h3>Search</h3><li><a href="//">Return</a> - This API endpoint will return the input text</li>
+        <h3>Random</h3><li><a href="//">Random Image</a> - This API endpoint will generate a random image</li>
         <li><a href="//">8-ball</a> - Gives the response a magic 8 ball would</li>
         <li><a href="//">Random Fact</a> - Gives you a random fact</li>
-        <li><a href="//">Color Converter</a> - This API will convert hex, RBG, or decimal to all the other formats</li>
+        <h3>Tools</h3><li><a href="//">Color Converter</a> - This API will convert hex, RBG, or decimal to all the other formats</li>
         <li><a href="//">Upload</a> - Upload the specified file to Cirrus' CDN server</li>
         <li><a href="//">Link Shortener</a> - Shortens the specified URL</li>
-        <li><a href="//">Replace Space</a> - This endpoint will take the text input provided and replace any spaces with a -</li>
+        <h3>Edit</h3><li><a href="//">Replace Space</a> - This endpoint will take the text input provided and replace any spaces with a -</li>
         <li><a href="//">Remove Parameters</a> - This endpoint will take the provided URL and remove any parameters that follow</li>
         <li><a href="//">Isolate Name</a> - This endpoint will isolate the file name that is at the end of a URL</li>
         <li><a href="//">Morse Code</a> - This API endpoint will translate text into morse code</li>
