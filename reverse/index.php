@@ -1,6 +1,6 @@
 <?php
 if (isset($_GET['text'])) {
-    $url = 'https://api.cirrus.center/api/v1/edit/reverse/text=' . $_GET['text'];
+    $url = 'https://api.cirrus.center/api/v1/edit/reverse/?text=' . $_GET['text'];
     $ch = curl_init();
 
     curl_setopt($ch, CURLOPT_URL, $url);
