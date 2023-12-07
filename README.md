@@ -1,20 +1,20 @@
 <div align="center">
     <h1 style="font-size: 36px;">Cirrus API Wrappers</h1>
-    <a href="https://github.com/caelen-cater/cirrus-api-wrappers" target="_blank">
+    <a href="https://github.com/Cirrus-Technologies/cirrus-api-wrappers" target="_blank">
         <img src="https://cdn.cirrus.center/main/icons/v1.svg" alt="Go to GitHub repo">
     </a>
-    <a href="https://github.com/caelen-cater/cirrus-api-wrappers/issues" target="_blank">
-        <img src="https://api.cirrus.center/api/v1/search/api-stats/wrapper-github/issues.php" alt="GitHub issues">
+    <a href="https://github.com/Cirrus-Technologies/cirrus-api-wrappers/issues" target="_blank">
+        <img src="https://img.shields.io/github/issues/Cirrus-Technologies/cirrus-api-wrappers" alt="GitHub issues">
     </a>
-    <a href="https://github.com/caelen-cater/cirrus-api-wrappers/blob/main/LICENSE" target="_blank">
+    <a href="https://github.com/Cirrus-Technologies/cirrus-api-wrappers/blob/main/LICENSE" target="_blank">
         <img src="https://cdn.cirrus.center/main/icons/License-MIT-blue.svg" alt="License">
     </a>
     <br>
-    <a href="https://github.com/caelen-cater/cirrus-api-wrappers" target="_blank">
-        <img src="https://api.cirrus.center/api/v1/search/api-stats/wrapper-github/stars.php" alt="GitHub stars">
+    <a href="https://github.com/Cirrus-Technologies/cirrus-api-wrappers" target="_blank">
+        <img src="https://img.shields.io/github/stars/Cirrus-Technologies/cirrus-api-wrappers?style=social" alt="GitHub stars">
     </a>
-    <a href="https://github.com/caelen-cater/cirrus-api-wrappers" target="_blank">
-        <img src="https://api.cirrus.center/api/v1/search/api-stats/wrapper-github/forks.php" alt="GitHub forks">
+    <a href="https://github.com/Cirrus-Technologies/cirrus-api-wrappers" target="_blank">
+        <img src="https://img.shields.io/github/forks/Cirrus-Technologies/cirrus-api-wrappers?style=social" alt="GitHub forks">
     </a>
     <br>
     <a href="https://docs.cirrus.center" target="_blank">
