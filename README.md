@@ -41,3 +41,4 @@
 </div>
 <h2 style="text-align: left;">Possible Issues</h2>
 <li><a>There might be compatibility issues with certain programming languages.</a></li>
+<li><a>Java, C#, Ruby, Swift, Kotlin, and TypeScript wrappers have not been tested to work.</a></li>
