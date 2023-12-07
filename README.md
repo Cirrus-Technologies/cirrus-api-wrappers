@@ -41,4 +41,3 @@
 </div>
 <h2 style="text-align: left;">Possible Issues</h2>
 <li><a>There might be compatibility issues with certain programming languages.</a></li>
-<li><a>The lua wrappers are not tested and may not work.</a></li>
