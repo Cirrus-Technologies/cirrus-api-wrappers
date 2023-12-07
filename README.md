@@ -25,18 +25,17 @@
     <h2 style="text-align: left;">API Wrappers:</h2>
     <ul>
         <h3>Moderation</h3><li><a href="/anti-doxx/">Anti-doxx</a> - Will scan any input text and tell if it could be doxxing someone</li>
-        <h3>Search</h3><li><a href="//">Return</a> - This API endpoint will return the input text</li>
-        <h3>Random</h3><li><a href="//">Random Image</a> - This API endpoint will generate a random image</li>
-        <li><a href="//">8-ball</a> - Gives the response a magic 8 ball would</li>
-        <li><a href="//">Random Fact</a> - Gives you a random fact</li>
-        <h3>Tools</h3><li><a href="//">Color Converter</a> - This API will convert hex, RBG, or decimal to all the other formats</li>
-        <li><a href="//">Upload</a> - Upload the specified file to Cirrus' CDN server</li>
-        <li><a href="//">Link Shortener</a> - Shortens the specified URL</li>
-        <h3>Edit</h3><li><a href="//">Replace Space</a> - This endpoint will take the text input provided and replace any spaces with a -</li>
-        <li><a href="//">Remove Parameters</a> - This endpoint will take the provided URL and remove any parameters that follow</li>
-        <li><a href="//">Isolate Name</a> - This endpoint will isolate the file name that is at the end of a URL</li>
-        <li><a href="//">Morse Code</a> - This API endpoint will translate text into morse code</li>
-        <li><a href="//">Reverse</a> - This API endpoint will reverse the input text</li>
+        <h3>Search</h3><li><a href="/return/">Return</a> - This API endpoint will return the input text</li>
+        <h3>Random</h3><li><a href="/8-ball/">8-ball</a> - Gives the response a magic 8 ball would</li>
+        <li><a href="/random-fact/">Random Fact</a> - Gives you a random fact</li>
+        <h3>Tools</h3><li><a href="/color-converter/">Color Converter</a> - This API will convert hex, RBG, or decimal to all the other formats</li>
+        <li><a href="/upload/">Upload</a> - Upload the specified file to Cirrus' CDN server</li>
+        <li><a href="/link-shortener/">Link Shortener</a> - Shortens the specified URL</li>
+        <h3>Edit</h3><li><a href="/replace-space/">Replace Space</a> - This endpoint will take the text input provided and replace any spaces with a -</li>
+        <li><a href="/remove-parameters/">Remove Parameters</a> - This endpoint will take the provided URL and remove any parameters that follow</li>
+        <li><a href="/isolate-name/">Isolate Name</a> - This endpoint will isolate the file name that is at the end of a URL</li>
+        <li><a href="/morese-code/">Morse Code</a> - This API endpoint will translate text into morse code</li>
+        <li><a href="/reverse/">Reverse</a> - This API endpoint will reverse the input text</li>
     </ul>
 </div>
 <h2 style="text-align: left;">Possible Issues</h2>
