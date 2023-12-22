@@ -2,7 +2,6 @@
 if (isset($_GET['input'])) {
     $url = 'https://api.cirrus.center/api/v1/moderation/text/?input=' . $_GET['input'];
 
-    // Check if whitelist parameter is set
     if (isset($_GET['whitelist'])) {
         $url .= '&whitelist=' . $_GET['whitelist'];
     }
